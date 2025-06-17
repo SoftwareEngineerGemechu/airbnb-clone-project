@@ -23,5 +23,45 @@ This repository will contain:
 - API endpoints and integration
 - Documentation and feature roadmap
 
+## 🖌️ UI/UX Design Planning
+
+### 🎯 Design Goals
+
+The UI/UX design for this project focuses on building a **clean, intuitive, and responsive interface** that mimics the user experience of platforms like AirBnB. The main goals are:
+- Make searching and booking properties simple and quick
+- Present property information in an attractive and organized way
+- Optimize the flow from browsing to booking
+- Ensure the interface is mobile-friendly and accessible
+
+### 🌟 Key Features to Implement
+
+- Property search with filters (location, dates, price, guests)
+- List/grid view of available properties
+- Detailed view with image gallery and amenities
+- Streamlined booking/checkout process
+- User account and login UI
+- Mobile responsive design
+- Consistent navigation and branding
+
+### 📄 Primary UI Pages
+
+| Page                   | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| **Property Listing View** | Displays a list or grid of available properties with thumbnails, prices, and short descriptions. Filter and sort options help users find relevant results. |
+| **Listing Detailed View** | Full detail page for a selected property. Includes image carousel, amenities, host info, price breakdown, and a booking CTA. |
+| **Simple Checkout View**  | Minimal form to collect guest details, payment method, and confirm the booking. Displays price summary and cancellation policy. |
+
+### 💡 Importance of a User-Friendly Design
+
+A user-friendly UI is vital for the success of a booking platform because:
+
+- 🧭 **Ease of Navigation** increases user retention and engagement
+- 🛒 **Simplified Checkout** encourages higher booking conversions
+- 📱 **Responsive Design** ensures accessibility across devices
+- 🧠 **Intuitive Interactions** reduce user frustration and help achieve goals quickly
+- 🎯 **Clear Visual Hierarchy** guides the user from discovery to booking seamlessly
+
+By focusing on intuitive layouts and smooth interactions, this project aims to deliver a satisfying and efficient booking experience for all users.
+
 ## Author
 Gemechu Bekele
