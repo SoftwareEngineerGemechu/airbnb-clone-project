@@ -102,5 +102,61 @@ Understanding and documenting the visual properties of a mockup is essential for
 
 By extracting these properties from the Figma file, we maintain a unified design standard across the entire project.
 
+## 📋 Project Roles and Responsibilities
+
+To ensure smooth collaboration and project success, the following roles and responsibilities have been defined:
+
+### 1. Project Manager
+- Oversees the project timeline, budget, and deliverables
+- Coordinates communication between team members and stakeholders
+- Manages risk, resolves conflicts, and ensures milestones are met
+- Tracks progress and reports status regularly
+
+### 2. Frontend Developers
+- Build responsive and interactive user interfaces using technologies like React, Vue, or plain HTML/CSS/JS
+- Implement design mockups and ensure UI/UX consistency
+- Optimize web pages for speed and accessibility
+- Collaborate closely with backend developers to integrate APIs
+
+### 3. Backend Developers
+- Design and implement server-side logic, databases, and APIs
+- Ensure security, scalability, and performance of the backend services
+- Write clean, maintainable, and well-documented code
+- Collaborate with frontend developers for seamless data flow
+
+### 4. Designers (UI/UX)
+- Create wireframes, mockups, and prototypes based on project requirements
+- Develop a consistent design language and style guide
+- Conduct usability testing and gather user feedback for improvements
+- Work closely with developers to ensure design fidelity
+
+### 5. QA/Testers
+- Develop and execute test plans to identify bugs and issues
+- Perform manual and automated testing of features
+- Validate that project requirements are met before release
+- Report bugs and work with developers for timely fixes
+
+### 6. DevOps Engineers
+- Set up and maintain infrastructure, CI/CD pipelines, and deployment processes
+- Monitor application performance and uptime
+- Automate repetitive tasks to improve efficiency
+- Ensure security best practices in deployment environments
+
+### 7. Product Owner
+- Defines product vision and priorities based on user needs and business goals
+- Maintains and prioritizes the product backlog
+- Acts as liaison between stakeholders and the development team
+- Approves deliverables and ensures alignment with the roadmap
+
+### 8. Scrum Master
+- Facilitates Agile ceremonies like daily stand-ups, sprint planning, and retrospectives
+- Removes blockers and helps the team stay productive
+- Ensures Agile principles are followed
+- Promotes continuous improvement within the team
+
+---
+
+Each role plays a vital part in delivering a high-quality, user-centric product on time and within scope. Clear role definitions help the team collaborate effectively and achieve project goals efficiently.
+
 ## Author
 Gemechu Bekele
