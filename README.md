@@ -158,5 +158,28 @@ To ensure smooth collaboration and project success, the following roles and resp
 
 Each role plays a vital part in delivering a high-quality, user-centric product on time and within scope. Clear role definitions help the team collaborate effectively and achieve project goals efficiently.
 
+## 🔧 UI Component Patterns
+
+To build a modular and maintainable user interface for the AirBnB Clone project, we plan to create the following reusable UI components:
+
+### 1. Navbar
+- A responsive navigation bar that includes links to key pages such as Home, Listings, Login/Signup, and User Profile.
+- Features a search input for location and dates.
+- Collapses into a hamburger menu on smaller screens for mobile-friendliness.
+
+### 2. Property Card
+- Displays essential information about a property including thumbnail image, title, location, price per night, and user rating.
+- Supports hover effects or click interaction to open detailed views.
+- Can be reused across property listings and search results.
+
+### 3. Footer
+- Contains links to important pages such as About, Contact, Terms of Service, and Privacy Policy.
+- Displays social media icons and copyright information.
+- Stays consistent across all pages for a unified experience.
+
+---
+
+These components will ensure consistency in design and simplify the development process by allowing reuse throughout the application.
+
 ## Author
 Gemechu Bekele
