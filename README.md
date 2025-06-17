@@ -63,5 +63,44 @@ A user-friendly UI is vital for the success of a booking platform because:
 
 By focusing on intuitive layouts and smooth interactions, this project aims to deliver a satisfying and efficient booking experience for all users.
 
+### 🖼️ Design System Exploration (Figma)
+
+Below are the design tokens and visual properties extracted from the mockup in Figma.
+
+#### 🎨 Color Styles
+
+- **Primary Color:** #FF5A5F (Airbnb Coral)
+- **Secondary Color:** #767676 (Medium Gray)
+- **Background Color:** #FFFFFF (White)
+- **Card Background:** #F7F7F7 (Light Gray)
+- **Text Primary:** #222222 (Dark Gray)
+- **Text Secondary:** #717171 (Light Gray)
+- **Highlight Color:** #00A699 (Turquoise)
+
+#### 🔤 Typography
+
+| Element          | Font Family     | Font Weight | Font Size |
+|------------------|------------------|-------------|-----------|
+| Headings (H1–H3) | `Circular Std` or `Inter` | Bold (700)   | 32px / 24px / 20px |
+| Body Text        | `Circular Std` or `Inter` | Regular (400) | 16px               |
+| Small Text       | `Circular Std` or `Inter` | Regular (400) | 14px               |
+| Button Text      | `Circular Std` or `Inter` | Semi-Bold (600) | 16px           |
+
+> *Note: If `Circular Std` is not available, `Inter` or `Poppins` can be used as a clean alternative for web.*
+
+---
+
+### 🧠 Why Identifying Design Properties Matters
+
+Understanding and documenting the visual properties of a mockup is essential for:
+
+- ✅ **Design consistency**: Ensures all developers and designers use the same visual rules
+- 🎨 **Accurate implementation**: Reduces visual bugs and pixel mismatch between design and final product
+- 📐 **Scalable UI**: Standardizing typography, color, and spacing allows reusable UI components
+- 🤝 **Better collaboration**: Makes it easier for teams to speak the same design language
+- 🔍 **Accessibility & UX**: Proper color contrast, font sizing, and hierarchy improve usability for all users
+
+By extracting these properties from the Figma file, we maintain a unified design standard across the entire project.
+
 ## Author
 Gemechu Bekele
